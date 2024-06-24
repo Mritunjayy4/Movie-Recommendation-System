@@ -23,10 +23,3 @@ To get your personalized movie recommendations:
 3. Enjoy a handpicked selection of movies matched to your unique taste!
 
 
-## Feedback
-
-I value your feedback! If you have any questions, suggestions, or issues, please feel free to contact me.
-
-Enjoy your cinematic journey with Movie Match!
-
-----
